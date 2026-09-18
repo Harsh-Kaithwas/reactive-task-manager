@@ -1,4 +1,3 @@
-# reactive-task-manager
 # Reactive REST API with WebFlux & R2DBC (Task Management System)
 
 This is the final Capstone Project for the Advanced Java Development course. It is a fully reactive, non-blocking REST API for a Task Management System built using modern Java practices.
